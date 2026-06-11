@@ -8,5 +8,4 @@ langchain-classic
 langchain_core
 pypdf
 python-dotenv
-protobuf
 
