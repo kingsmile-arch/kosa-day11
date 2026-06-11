@@ -8,5 +8,5 @@ langchain-classic
 langchain_core
 pypdf
 python-dotenv
-protobuf==3.20.3
+protobuf
 
